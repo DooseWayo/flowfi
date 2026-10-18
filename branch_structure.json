@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/sse-keepalive-heartbeat",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/sse-keepalive-heartbeat": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/sse-keepalive-heartbeat",
+    "origin"
+  ]
+}
